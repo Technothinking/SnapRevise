@@ -1,0 +1,10 @@
+ocr_nlp/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+ocr_nlp/.env
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
